@@ -1,0 +1,23 @@
+.display{
+	display: flex;
+	justify-content: center;
+}	
+.board{
+      	display: flex;
+     	flex-wrap: wrap;
+      	width: 640px;
+    	height: 640px;
+    	border: 20px solid grey;
+}
+.box{
+	height: 80px;
+	width: 80px;
+	display: flex;
+}
+.black{
+	background: black;
+}
+
+
+
+	
